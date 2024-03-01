@@ -1,11 +1,11 @@
-//
+
 //  RecordButton.swift
 //  Instant
 //
 //  Created by Samuel Beek on 21/06/15.
 //  Updated by digitallysavvy on (22/03/18), (08/08/19)
 //  Copyright (c) 2015 Samuel Beek. All rights reserved.
-//
+
 
 import Foundation
 import UIKit
