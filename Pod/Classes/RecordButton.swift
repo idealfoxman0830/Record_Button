@@ -189,6 +189,14 @@ open class RecordButton : UIButton {
         circleBorder.position = CGPoint(x: self.bounds.midX,y: self.bounds.midY)
         super.layoutSubviews()
     }
+
+     //override open func layoutSubviews() {
+       // circleLayer.anchorPoint = CGPoint(x: 0.5, y: 0.5)
+        //circleLayer.position = CGPoint(x: self.bounds.midX,y: self.bounds.midY)
+        //circleBorder.anchorPoint = CGPoint(x: 0.5, y: 0.5)
+        //circleBorder.position = CGPoint(x: self.bounds.midX,y: self.bounds.midY)
+        //super.layoutSubviews()
+    //}
     
     
     @objc open func didTouchDown(){
